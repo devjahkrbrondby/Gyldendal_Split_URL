@@ -5,7 +5,6 @@ C:\Users\JacobHøj-Kristensen\source\repos\Gyldendal_Split_URL\Gyldendal_Split_U
 C:\Users\JacobHøj-Kristensen\source\repos\Gyldendal_Split_URL\Gyldendal_Split_URL\bin\Debug\net5.0\Gyldendal_Split_URL.dll
 C:\Users\JacobHøj-Kristensen\source\repos\Gyldendal_Split_URL\Gyldendal_Split_URL\bin\Debug\net5.0\ref\Gyldendal_Split_URL.dll
 C:\Users\JacobHøj-Kristensen\source\repos\Gyldendal_Split_URL\Gyldendal_Split_URL\bin\Debug\net5.0\Gyldendal_Split_URL.pdb
-C:\Users\JacobHøj-Kristensen\source\repos\Gyldendal_Split_URL\Gyldendal_Split_URL\obj\Debug\net5.0\Gyldendal_Split_URL.csproj.AssemblyReference.cache
 C:\Users\JacobHøj-Kristensen\source\repos\Gyldendal_Split_URL\Gyldendal_Split_URL\obj\Debug\net5.0\Gyldendal_Split_URL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\JacobHøj-Kristensen\source\repos\Gyldendal_Split_URL\Gyldendal_Split_URL\obj\Debug\net5.0\Gyldendal_Split_URL.AssemblyInfoInputs.cache
 C:\Users\JacobHøj-Kristensen\source\repos\Gyldendal_Split_URL\Gyldendal_Split_URL\obj\Debug\net5.0\Gyldendal_Split_URL.AssemblyInfo.cs

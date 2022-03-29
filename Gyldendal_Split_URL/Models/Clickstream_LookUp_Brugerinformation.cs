@@ -3,7 +3,7 @@
 namespace Gyldendal_Split_URL.Models
 {
     [Table("Clickstream_LookUp_Produktvej", Schema = "Staging")]
-    public class Clickstream_LookUp_Produktvej
+    public class Produktvej
     {
         public int Id { get; set; }
         public string BKey_Produktvej { get; set; }

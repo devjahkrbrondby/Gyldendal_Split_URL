@@ -18,13 +18,14 @@ namespace Gyldendal_Split_URL
                 var updatedProduktvej = SplitUrlIntoLevels(urlsToUpdate.ToList());
 
                 _context.UpdateRange(updatedProduktvej);
-                _context.SaveChanges();
+                var result = _context.SaveChanges();
             }
+
         }
 
-        public static List<Clickstream_LookUp_Produktvej> SplitUrlIntoLevels(List<Clickstream_LookUp_Produktvej> list_Produktvej)
+        public static List<Produktvej> SplitUrlIntoLevels(List<Produktvej> list_Produktvej)
         {
-            List<Clickstream_LookUp_Produktvej> updatedList = new List<Clickstream_LookUp_Produktvej>();
+            List<Produktvej> updatedList = new List<Produktvej>();
 
             foreach (var produktvej in list_Produktvej)
             {

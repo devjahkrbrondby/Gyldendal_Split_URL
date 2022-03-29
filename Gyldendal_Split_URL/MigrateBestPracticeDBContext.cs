@@ -18,7 +18,7 @@ namespace Gyldendal_Split_URL
         public Gyldendal_Split_URLDBContext(DbContextOptions<Gyldendal_Split_URLDBContext> options) : base(options)
         {
         }
-        public DbSet<Clickstream_LookUp_Produktvej> Clickstream_LookUp_Produktvej { get; set; }
+        public DbSet<Produktvej> Clickstream_LookUp_Produktvej { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
